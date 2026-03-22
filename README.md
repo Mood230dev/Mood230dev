@@ -1,22 +1,22 @@
 # 👋 Hello, I'm Mood! (@Mood230dev)
-**Solo Minecraft Plugin & Discord Bot Developer | Java & Python**
+**Solo Developer | Minecraft Plugins & Discord Bots | Java & Python**
 
-I am a solo developer specializing in high-performance Minecraft plugins and custom Discord bots for server communities. My main focus is creating optimized, lag-free experiences using the Spigot and Paper APIs, alongside seamless Discord integrations.
+I am a solo developer specializing in creating optimized software for the Minecraft ecosystem. I focus on backend development, writing clean, efficient, and scalable code for server communities.
 
 ---
 
-### 🚀 What I'm working on
-* 🤖 **Minecraft Discord Bot:** Developing a feature-rich Discord bot designed to integrate perfectly with Minecraft servers, enhancing community management and utility.
-* 📦 **Custom Minecraft Plugins:** Writing clean, efficient, and scalable Java code for modern Minecraft servers.
+### 🚀 What I Do
+* 📦 **Minecraft Plugins:** Developing high-performance, server-side solutions using the Paper and Spigot APIs.
+* 🤖 **Discord Integrations:** Creating custom, feature-rich Discord bots and utility tools.
 
 ### 💻 Tech Stack & Tools
 * **Languages:** Java, Python
 * **APIs:** Paper API, Spigot API, Discord API
-* **Build Tools & DevOps:** Maven, Git
+* **Build Tools & Version Control:** Maven, Git
 
 ### 📫 Connect & Support
-Need support for my plugins or bots, want to report a bug, or just track my progress?
-* **Discord Community & Support:** [[Discord](https://discord.gg/3W3BaHNBBD)]
+If you need support for any of my resources, want to report an issue, or just reach out:
+* **Discord Community:** [[Discord](https://discord.gg/3W3BaHNBBD)]
 
 ---
-*“Writing optimized code for better server performance and community management.”*
+*“Writing optimized code for better performance.”*
